@@ -49,16 +49,16 @@
                            <a class="nav-link" href="{{route('home.home')}}">Home</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="{{route('home.home')}}">About</a>
+                           <a class="nav-link" href="{{route('home.about')}}">About</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="{{route('home.home')}}">Services</a>
+                           <a class="nav-link" href="{{route('home.service')}}">Services</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="{{route('home.home')}}">Blog</a>
+                           <a class="nav-link" href="{{route('home.blog')}}">Blog</a>
                         </li>
                         <li class="nav-item">
-                           <a class="nav-link" href="{{route('home.home')}}">Contact Us</a>
+                           <a class="nav-link" href="{{route('home.contact')}}">Contact Us</a>
                         </li>
                      </ul>
                      <div class="call_section">
